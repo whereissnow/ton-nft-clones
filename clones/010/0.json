@@ -1,0 +1,21 @@
+{
+  "name": "Loot Bag #11186",
+  "description": "An exclusive Loot Bag with the appearance Secret Toys on a Onyx Black background with Kudu Totem icons.",
+  "image": "https://nft.fragment.com/gift/lootbag-11186.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Secret Toys"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Kudu Totem"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/lootbag-11186.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/lootbag-11186.lottie.json"
+}
