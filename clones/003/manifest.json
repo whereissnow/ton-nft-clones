@@ -1,0 +1,25 @@
+{
+  "cloneNumber": "003",
+  "name": "Snoop Dogg #419493",
+  "collectionName": "Snoop Doggs",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T09:28:31.238Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQCuICUxUg7DJCWYrlV7V3cUirUBYJtEFkTLhsnarjH-zVbZ",
+  "itemAddress": "kQCmDgAdL2342d6U2yHyGNX5MTts3iayi6AMSvmyPJQmuXa2",
+  "sourceNft": "EQDEQq2AevNebUBYWelZnDbq-GcoTqJGKSusz2IdpKXt-_Gi",
+  "sourceCollection": "EQAoJw7BpOcBD3y9voMuEQ-qhS3K4gtM-6EePLxkzk8iSifX",
+  "mediaType": "LOTTIE",
+  "hasAnimation": true,
+  "imageUrl": "https://nft.fragment.com/gift/snoopdogg-419493.webp",
+  "animationUrl": "https://nft.fragment.com/gift/snoopdogg-419493.lottie.json",
+  "lottieUrl": "https://nft.fragment.com/gift/snoopdogg-419493.lottie.json",
+  "videoUrl": null,
+  "collectionUrl": "https://testnet.getgems.io/collection/kQCuICUxUg7DJCWYrlV7V3cUirUBYJtEFkTLhsnarjH-zVbZ",
+  "itemUrl": "https://testnet.getgems.io/nft/kQCmDgAdL2342d6U2yHyGNX5MTts3iayi6AMSvmyPJQmuXa2",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/003/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/003/0.json"
+  }
+}
