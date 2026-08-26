@@ -1,0 +1,25 @@
+{
+  "cloneNumber": "010",
+  "name": "Loot Bag #11186",
+  "collectionName": "Loot Bags",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T11:42:00.395Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQDbN2KtzOmAb1i3wj04gBLwSn9_Kp36rMyv_6OLT8KQlFct",
+  "itemAddress": "kQALcjQWOaV3e_1Djb5vTBbPTcxj8fP7ne9Y6in7EGSvOV3C",
+  "sourceNft": "EQBB8xN2-t6T7ZcWKoFo4e_FWrhKROqCNcvpF_FYN7OASlUC",
+  "sourceCollection": "EQCE80Aln8YfldnQLwWMvOfloLGgmPY0eGDJz9ufG3gRui3D",
+  "mediaType": "LOTTIE",
+  "hasAnimation": true,
+  "imageUrl": "https://nft.fragment.com/gift/lootbag-11186.webp",
+  "animationUrl": "https://nft.fragment.com/gift/lootbag-11186.lottie.json",
+  "lottieUrl": "https://nft.fragment.com/gift/lootbag-11186.lottie.json",
+  "videoUrl": null,
+  "collectionUrl": "https://testnet.getgems.io/collection/kQDbN2KtzOmAb1i3wj04gBLwSn9_Kp36rMyv_6OLT8KQlFct",
+  "itemUrl": "https://testnet.getgems.io/nft/kQALcjQWOaV3e_1Djb5vTBbPTcxj8fP7ne9Y6in7EGSvOV3C",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/010/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/010/0.json"
+  }
+}
