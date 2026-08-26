@@ -1,0 +1,19 @@
+{
+  "cloneNumber": "002",
+  "name": "+888 8 080",
+  "collectionName": "Anonymous Telegram Numbers",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T07:30:54.222Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQBzfi6EWSFW-AEgEZx3RKORnnzx8m4oWirhkTGuILPyFmbW",
+  "itemAddress": "kQDfYqjodwDwGwLPG_5V2i-MYBUIgirIMqay30MXKcelaEkJ",
+  "sourceNft": "EQCRx0K4WPaTGM7CfgqMwHY6xMiFAAtYKQl6PCHyCfV6KnJt",
+  "sourceCollection": "EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N",
+  "collectionUrl": "https://testnet.getgems.io/collection/kQBzfi6EWSFW-AEgEZx3RKORnnzx8m4oWirhkTGuILPyFmbW",
+  "itemUrl": "https://testnet.getgems.io/nft/kQDfYqjodwDwGwLPG_5V2i-MYBUIgirIMqay30MXKcelaEkJ",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/002/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/002/0.json"
+  }
+}
