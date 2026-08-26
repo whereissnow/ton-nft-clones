@@ -1,0 +1,4 @@
+.ton_config.json
+node_modules/
+cloned_metadata/
+*.log
