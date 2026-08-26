@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #1781",
+  "description": "An exclusive Plush Pepe with the appearance Gucci Leap on a Malachite background with Star icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-1781.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Gucci Leap"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1781.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-1781.lottie.json"
+}
