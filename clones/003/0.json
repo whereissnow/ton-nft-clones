@@ -1,0 +1,21 @@
+{
+  "name": "Snoop Dogg #419493",
+  "description": "An exclusive Snoop Dogg by Snoop Dogg with the appearance Emerald on a Onyx Black background with Tooth icons.",
+  "image": "https://nft.fragment.com/gift/snoopdogg-419493.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tooth"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/snoopdogg-419493.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/snoopdogg-419493.lottie.json"
+}
