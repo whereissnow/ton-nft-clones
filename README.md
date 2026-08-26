@@ -1,2 +1,3 @@
 # ton-nft-clones
-TON NFT clone metadata storage
+
+TON NFT clone metadata storage.
