@@ -1,0 +1,20 @@
+{
+  "name": "Durov’s Cap #2298",
+  "description": "An exclusive Durov’s Cap with the appearance Aurora on a Black background with Ouroboros icons.",
+  "image": "https://nft.fragment.com/gift/durovscap-2298.webp",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ouroboros"
+    }
+  ]
+}
