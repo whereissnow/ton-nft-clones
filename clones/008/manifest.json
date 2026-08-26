@@ -1,0 +1,49 @@
+{
+  "cloneNumber": "008",
+  "isCollection": true,
+  "itemCount": 3,
+  "collectionName": "Swiss Watches",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T09:47:59.375Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQCESbTYVKFPPkOtlMosYQUu2vEcn0OwvKKLK4XWFx1TctIk",
+  "sourceCollection": "EQBI07PXew94YQz7GwN72nPNGF6htSTOJkuU4Kx_bjTZv32U",
+  "collectionUrl": "https://testnet.getgems.io/collection/kQCESbTYVKFPPkOtlMosYQUu2vEcn0OwvKKLK4XWFx1TctIk",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/008/collection.json",
+    "itemBase": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/008/"
+  },
+  "items": [
+    {
+      "index": 0,
+      "name": "Swiss Watch #17495",
+      "address": "kQAQfkBNnT5JSWkkxWODqllsV2XfixFou-ZIjQ9mH5Iwv_9A",
+      "url": "https://testnet.getgems.io/nft/kQAQfkBNnT5JSWkkxWODqllsV2XfixFou-ZIjQ9mH5Iwv_9A",
+      "mediaType": "LOTTIE",
+      "image": "https://nft.fragment.com/gift/swisswatch-17495.webp",
+      "lottie": "https://nft.fragment.com/gift/swisswatch-17495.lottie.json",
+      "animation_url": "https://nft.fragment.com/gift/swisswatch-17495.lottie.json"
+    },
+    {
+      "index": 1,
+      "name": "Swiss Watch #11",
+      "address": "kQCh4YdR0oD7wpcZ_6t1tRgm21X2HR10ctj-ENg6Me11ftLh",
+      "url": "https://testnet.getgems.io/nft/kQCh4YdR0oD7wpcZ_6t1tRgm21X2HR10ctj-ENg6Me11ftLh",
+      "mediaType": "LOTTIE",
+      "image": "https://nft.fragment.com/gift/swisswatch-11.webp",
+      "lottie": "https://nft.fragment.com/gift/swisswatch-11.lottie.json",
+      "animation_url": "https://nft.fragment.com/gift/swisswatch-11.lottie.json"
+    },
+    {
+      "index": 2,
+      "name": "Swiss Watch #8338",
+      "address": "kQCwKuPpoL8SnbeSxTfNUUueNa9wkJVBlmCKmW6ol2ZDXIM0",
+      "url": "https://testnet.getgems.io/nft/kQCwKuPpoL8SnbeSxTfNUUueNa9wkJVBlmCKmW6ol2ZDXIM0",
+      "mediaType": "LOTTIE",
+      "image": "https://nft.fragment.com/gift/swisswatch-8338.webp",
+      "lottie": "https://nft.fragment.com/gift/swisswatch-8338.lottie.json",
+      "animation_url": "https://nft.fragment.com/gift/swisswatch-8338.lottie.json"
+    }
+  ]
+}
