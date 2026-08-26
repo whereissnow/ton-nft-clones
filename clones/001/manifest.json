@@ -1,0 +1,19 @@
+{
+  "cloneNumber": "001",
+  "name": "Durov’s Cap #2298",
+  "collectionName": "Durov’s Caps",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T07:29:31.066Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQAKdEj83jgI_3QHzeRoWojBEYg3LNkMbTgFeGWdW8e5t4Kf",
+  "itemAddress": "kQD1o3ShU_a1WEq8GAZzk5tPPW5p7K19GN8AmaIhmuEqRhHL",
+  "sourceNft": "EQBRTTiR3sHQIJ77WwPUcy3BKcVMMVIMJSB9xjinnPV7B0tV",
+  "sourceCollection": "EQD9ikZq6xPgKjzmdBG0G0S80RvUJjbwgHrPZXDKc_wsE84w",
+  "collectionUrl": "https://testnet.getgems.io/collection/kQAKdEj83jgI_3QHzeRoWojBEYg3LNkMbTgFeGWdW8e5t4Kf",
+  "itemUrl": "https://testnet.getgems.io/nft/kQD1o3ShU_a1WEq8GAZzk5tPPW5p7K19GN8AmaIhmuEqRhHL",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/001/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/001/0.json"
+  }
+}
