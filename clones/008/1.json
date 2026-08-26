@@ -1,0 +1,21 @@
+{
+  "name": "Swiss Watch #11",
+  "description": "An exclusive Swiss Watch with the appearance Diamond Ring on a Pure Gold background with Pegasus icons.",
+  "image": "https://nft.fragment.com/gift/swisswatch-11.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Diamond Ring"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pegasus"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/swisswatch-11.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/swisswatch-11.lottie.json"
+}
