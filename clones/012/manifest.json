@@ -1,0 +1,25 @@
+{
+  "cloneNumber": "012",
+  "name": "@superior",
+  "collectionName": "Telegram Usernames",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T11:51:15.019Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQB4OXNHjAzWCKl5RWwAHKWJOHZbGX_LUvcLquYB6ClbWCnR",
+  "itemAddress": "kQAgDB1btCtwDnJzMeGDYhr48IKK6iM0SPkr4WfZ9ICtLiwp",
+  "sourceNft": "EQBz4ydhhJTWj5_4SqQJtXb8_SUoDm1efrv_9QwySYKFwyVI",
+  "sourceCollection": "EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi",
+  "mediaType": "STATIC_IMAGE",
+  "hasAnimation": false,
+  "imageUrl": "https://nft.fragment.com/username/superior.webp",
+  "animationUrl": null,
+  "lottieUrl": null,
+  "videoUrl": null,
+  "collectionUrl": "https://testnet.getgems.io/collection/kQB4OXNHjAzWCKl5RWwAHKWJOHZbGX_LUvcLquYB6ClbWCnR",
+  "itemUrl": "https://testnet.getgems.io/nft/kQAgDB1btCtwDnJzMeGDYhr48IKK6iM0SPkr4WfZ9ICtLiwp",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/012/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/012/0.json"
+  }
+}
