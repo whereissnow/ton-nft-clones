@@ -1,0 +1,25 @@
+{
+  "cloneNumber": "007",
+  "name": "Scared Cat #16479",
+  "collectionName": "Scared Cats",
+  "network": "testnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-26T09:37:58.779Z",
+  "walletAddress": "0QB1TVuyf0etjoa6jhfi5uVKgSu6_0z24Q2xRbjkc_8yZIPC",
+  "collectionAddress": "kQB4No2iVJKwDfl42i-76Pp1ItsOQw5Vr_8hmVkxY5WqiOeG",
+  "itemAddress": "kQB2dJ5TglD-lyzpOTM1F_ppWnXpAOnXq9urjfJf3MRGHjcT",
+  "sourceNft": "EQDZbgeTA4VMBTEOPpV63prqSDPd1z0w4KvpPnOg4IPhKOy2",
+  "sourceCollection": "EQATuUGdvrjLvTWE5ppVFOVCqU2dlCLUnKTsu0n1JYm9la10",
+  "mediaType": "LOTTIE",
+  "hasAnimation": true,
+  "imageUrl": "https://nft.fragment.com/gift/scaredcat-16479.webp",
+  "animationUrl": "https://nft.fragment.com/gift/scaredcat-16479.lottie.json",
+  "lottieUrl": "https://nft.fragment.com/gift/scaredcat-16479.lottie.json",
+  "videoUrl": null,
+  "collectionUrl": "https://testnet.getgems.io/collection/kQB4No2iVJKwDfl42i-76Pp1ItsOQw5Vr_8hmVkxY5WqiOeG",
+  "itemUrl": "https://testnet.getgems.io/nft/kQB2dJ5TglD-lyzpOTM1F_ppWnXpAOnXq9urjfJf3MRGHjcT",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/007/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/007/0.json"
+  }
+}
