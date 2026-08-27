@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #5",
+  "description": "An exclusive Plush Pepe with the appearance Bavaria on a Chestnut background with Inguz Rune icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-5.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Bavaria"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Inguz Rune"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-5.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-5.lottie.json"
+}
