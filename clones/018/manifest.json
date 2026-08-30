@@ -1,0 +1,25 @@
+{
+  "cloneNumber": "018",
+  "name": "Plush Pepe #2658",
+  "collectionName": "Plush Pepes",
+  "network": "mainnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-30T12:22:15.247Z",
+  "walletAddress": "UQAlEVh5sny9-gjal76T0bJhR8JIODeRm-ap52U1v6MDiT_W",
+  "collectionAddress": "EQAfBGgjrUpHqBMB7l0OsB3fMTwVYfPlW0nRwRA1kY1yU-p5",
+  "itemAddress": "EQA_MU7Wei8bseiUT3A5524Uy4r0NcO3rSH0xpeJ4_SLKW_5",
+  "sourceNft": "EQCSTm3Xqo9f6GHdJh9Sd8dPv6bFLvqAWqIDtbFLvWEypaF0",
+  "sourceCollection": null,
+  "mediaType": "LOTTIE",
+  "hasAnimation": true,
+  "imageUrl": "https://nft.fragment.com/gift/plushpepe-2658.webp",
+  "animationUrl": "https://nft.fragment.com/gift/plushpepe-2658.lottie.json",
+  "lottieUrl": "https://nft.fragment.com/gift/plushpepe-2658.lottie.json",
+  "videoUrl": null,
+  "collectionUrl": "https://getgems.io/collection/EQAfBGgjrUpHqBMB7l0OsB3fMTwVYfPlW0nRwRA1kY1yU-p5",
+  "itemUrl": "https://getgems.io/nft/EQA_MU7Wei8bseiUT3A5524Uy4r0NcO3rSH0xpeJ4_SLKW_5",
+  "metadataUrls": {
+    "collection": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/018/collection.json",
+    "item": "https://raw.githubusercontent.com/whereissnow/ton-nft-clones/main/clones/018/0.json"
+  }
+}
