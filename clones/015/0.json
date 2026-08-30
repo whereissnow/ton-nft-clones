@@ -1,0 +1,21 @@
+{
+  "name": "Scared Cat #2667",
+  "description": "An exclusive Scared Cat with the appearance Ruby on a Strawberry background with Treats icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-2667.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Treats"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/scaredcat-2667.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/scaredcat-2667.lottie.json"
+}
