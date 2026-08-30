@@ -1,0 +1,21 @@
+{
+  "name": "Liberty Figure #59151",
+  "description": "An exclusive Liberty Figure with the appearance Ice Queen on a Aquamarine background with Maple Leaf icons.",
+  "image": "https://nft.fragment.com/gift/libertyfigure-59151.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Ice Queen"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Maple Leaf"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/libertyfigure-59151.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/libertyfigure-59151.lottie.json"
+}
