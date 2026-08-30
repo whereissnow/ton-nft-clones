@@ -1,0 +1,21 @@
+{
+  "name": "Scared Cat #3422",
+  "description": "An exclusive Scared Cat with the appearance Mentos on a Black background with Crow icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-3422.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Mentos"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crow"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/scaredcat-3422.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/scaredcat-3422.lottie.json"
+}
