@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #2658",
+  "description": "An exclusive Plush Pepe with the appearance Cozy Galaxy on a Black background with Pegasus icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-2658.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Cozy Galaxy"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pegasus"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-2658.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-2658.lottie.json"
+}
