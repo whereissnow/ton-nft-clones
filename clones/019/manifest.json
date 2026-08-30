@@ -1,0 +1,18 @@
+{
+  "cloneNumber": "019",
+  "name": "Plush Pepe #2658",
+  "collectionName": "Plush Pepes",
+  "network": "mainnet",
+  "metadataNetwork": "mainnet",
+  "deployedAt": "2026-08-30T12:30:04.556Z",
+  "walletAddress": "UQAlEVh5sny9-gjal76T0bJhR8JIODeRm-ap52U1v6MDiT_W",
+  "recipientAddress": "UQDqX7tdbHVceJFkhaF7rIG-kbSvYHRW_f34cCP_TEi6u_Tl",
+  "collectionAddress": "EQDGHpbrsRaXSEHcd6g9av_2VtolpwYKWE64ftJ6s1Y3lGQP",
+  "itemAddress": null,
+  "directMint": true,
+  "sourceNft": "EQCSTm3Xqo9f6GHdJh9Sd8dPv6bFLvqAWqIDtbFLvWEypaF0",
+  "imageUrl": "https://nft.fragment.com/gift/plushpepe-2658.webp",
+  "animationUrl": "https://nft.fragment.com/gift/plushpepe-2658.lottie.json",
+  "collectionUrl": "https://getgems.io/collection/EQDGHpbrsRaXSEHcd6g9av_2VtolpwYKWE64ftJ6s1Y3lGQP",
+  "itemUrl": null
+}
